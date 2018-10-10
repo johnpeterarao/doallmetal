@@ -1,0 +1,361 @@
+@media only screen and (max-width: 1560px){
+	footer { padding: 40px!important;}
+	footer > ul > li:last-child > .email-hldr input[type="email"] { max-width: 100%!important; width: calc(100% - 180px)!important; }
+}
+
+@media only screen and (max-width: 1500px){
+	.cs_container { padding: 0px 40px; max-width: 100%!important;} 
+	.home .sec-3 .hldr_ > div.details_hldr > article, .home .sec-5 .hldr_ > div.details_hldr > article{ max-width: 100%!important; padding: 30px 40px!important;}
+	.home .sec-4 .hldr_ .p-holdr,  { max-width: 75%!important;}
+	.about-page .sec-2 > article .about-same > ul > li:nth-child(2) { padding-left: 40px!important; padding-right: 40px!important;}
+	.join_team .sec-2 .holder > .job_carousel-hldr .owl-nav .owl-prev { left: -20px!important;}
+	.join_team .sec-2 .holder > .job_carousel-hldr .owl-nav .owl-next { right: -20px!important;}
+}
+
+@media only screen and (max-width: 1440px){
+	.home .sec-1 .home-carousel .item article.hero h2 { font-size: 45px!important;}
+
+	.about-page .sec-1 .hero > h3, .join_team .sec-1 .hero > h3, .machine .sec-1 .hero > h3, .contact .sec-1 .hero > h3, .clients .sec-1 .hero > h3, .clients .sec-1 .hero > h3, .capabilities .sec-1 .hero > h3, .projects .sec-1 .hero > h3 { font-size: 45px!important;}
+
+	.about-page .sec-2 > article .about-same > ul > li:first-child article.text-hero h4 { font-size: 45px!important;}
+
+	.sec-title { font-size: 35px!important;}
+
+	.home .sec-3 .hldr_ > div.details_hldr > article > h3 { margin-bottom: 20px!important;}
+	.capabilities .sec-2 .hldr_ > h3 {margin-bottom: 20px!important;}
+	.machine .sec-2 .holder > h3{ margin-bottom: 20px!important;}
+	.home .sec-4 .hldr_ > h3, .home .sec-6 .hldr_ > h3 {margin-bottom: 20px!important;}
+	.clients .sec-2 .hldr > ul > li:nth-child(2) > article > h3 {margin-bottom: 20px!important;}
+	.home .sec-5 .hldr_ > div.details_hldr > article > h3 { margin-bottom: 20px!important;}
+	.italic_title{margin-bottom: 15px!important;}
+
+	.map-hldr .hldr > ul > li:last-child .details { padding: 50px 70px!important;}
+
+	.about-page .sec-2 > article .about-team > ul > li .hldr > ul > li > aside { max-width: 200px!important; height: 222px!important;}
+	.about-page .sec-2 > article .about-team > ul > li .hldr > ul > li { margin-bottom: 50px!important;}
+	.machine .sec-2 .holder > p {margin-bottom: 15px!important;}
+	.projects .sec-2 .top-bar {margin-bottom: 50px!important;}
+
+}
+
+
+@media only screen and (max-width: 1300px){
+	.nav-container { padding: 0px 20px!important}
+
+	.home .sec-1 .home-carousel .item article.hero h2 { font-size: 40px!important;     margin-bottom: 15px!important;} 
+
+	.cs_container { padding: 0px 20px!important;}
+
+	.capabilities .sec-2 .hldr_ .item_hldr{ margin: 0px!important;	margin-top: 40px!important; }
+
+
+	/*************************SECTION PADDING***********************************/
+	.home .sec-2, .home .sec-4, .home .sec-6, .map-hldr, .about-page .sec-2, .join_team .sec-2, .machine .sec-2, .clients .sec-2, .capabilities .sec-2 { padding: 30px 0px!important;}
+	/*************************END OF SECTION PADDING***********************************/
+	.home .sec-3, .contact .sec-2, .projects .sec-2 {padding: 30px 0px 0px!important;}
+	.about-page .sec-2 > article .about-same > ul > li:nth-child(2) { padding-left: 20px!important; padding-right: 20px!important;}
+
+	.contact .sec-2 .padding-form { padding: 0px!important;}
+	.contact .sec-2 .padding-form .form-hldr{ padding: 30px 20px!important;}
+	.contact .sec-2 .padding-form .form-hldr > ul > li > h5 { font-size: 20px!important;}
+	.home .sec-2 .hldr_ > ul > li article > h4 { font-size: 20px!important; margin-bottom: 5px!important;}
+
+	.home .sec-3 .hldr_ > div.details_hldr > article, .home .sec-5 .hldr_ > div.details_hldr > article { padding: 30px 20px!important;}
+
+	.sec-title{ font-size: 30px!important;     line-height: 38px!important;}
+
+	.home .sec-4 .hldr_ > ul.prject-sample > li { width: 50%!important;}
+	.home .sec-6 .hldr_ .job-list { justify-content: space-around!important;}
+	.home .sec-6 .hldr_ .job-list > li { width: 33.3%!important; margin-bottom: 20px;}
+	.map-hldr .hldr > ul > li:last-child .details > ul > li h5 { font-size: 20px!important;}
+	.map-hldr .hldr > ul > li:last-child .details > ul > li p { font-size: 16px!important;}
+
+	footer{ padding: 30px 20px!important;}
+	footer > ul > li > h5 { font-size: 20px!important; margin-bottom: 15px!important;}
+
+	footer .logo_mid { position: relative!important; margin: 0px auto 15px!important; left: 0!important; transform: translate(0, 0)!important; top: 0!important;}
+	footer > ul > li:first-child { width: 30%!important;}
+	footer > ul > li:last-child { width: 40%!important; padding-left: 15px!important;}
+	footer > ul > li:nth-child(2) { padding-right: 15px!important;}
+
+
+
+
+	.about-page .sec-1 .hero > h3, .join_team .sec-1 .hero > h3, .machine .sec-1 .hero > h3, .contact .sec-1 .hero > h3, .clients .sec-1 .hero > h3, .capabilities .sec-1 .hero > h3, .projects .sec-1 .hero > h3 { font-size: 40px!important;}
+
+	.about-page .sec-1 .hero > p, .join_team .sec-1 .hero > p, .machine .sec-1 .hero > p, .contact .sec-1 .hero > p, .clients .sec-1 .hero > p, .capabilities .sec-1 .hero > p, .projects .sec-1 .hero > p { font-size: 20px!important;}
+
+	.about-page .sec-2 .top-bar .about-tabs li { padding: 0px 20px!important;}
+
+	.about-page .sec-2 > article .about-same > ul > li:first-child article.text-hero h4 { font-size: 40px!important;}
+	.about-page .sec-2 .top-bar .about-tabs li a { font-size: 20px!important;}
+
+	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li { padding: 30px 20px!important;}
+
+	.clients .sec-2 .hldr > ul > li:nth-child(2) { padding: 0px!important; padding-left: 20px!important;}
+	.clients .sec-2 .hldr .p-holder { padding: 20px 0px 0px!important;}
+	.clients .sec-2 .hldr > ul{ margin-bottom: 20px!important;}
+	.capabilities .sec-2 .hldr_ .item_hldr > li > div { max-width: 100%!important;}
+
+	.capabilities .sec-2 .hldr_ .item_hldr > li > div aside { margin: 0 auto 25px!important;}
+	.capabilities .sec-2 .hldr_ .item_hldr > li > div article h4 {margin-bottom: 15px!important;}
+
+	.projects .sec-2 .top-bar .project-tabs li { padding-right: 50px!important;}
+
+}
+
+
+
+@media only screen and (max-width: 1130px){
+	.nav-custom .navbar-nav > li a { font-size: 14px!important; padding: 10px 12px!important;}
+	.home .sec-1 .home-carousel .item article.hero h2 {font-size: 35px!important;}
+
+	.about-page .sec-1 .hero > h3, .join_team .sec-1 .hero > h3, .machine .sec-1 .hero > h3, .contact .sec-1 .hero > h3, .clients .sec-1 .hero > h3, .capabilities .sec-1 .hero > h3, .projects .sec-1 .hero > h3 { font-size: 35px!important;}
+
+	.about-page .sec-2 > article .about-same > ul > li:first-child article.text-hero h4 { font-size: 35px!important;}
+
+	.nav-logo { margin-right: 20px!important;}
+
+	.capabilities .sec-2 .hldr_ .item_hldr > li { width: 50%!important; margin-bottom: 25px;}
+	.capabilities .sec-2 .hldr_ .item_hldr { justify-content: space-around!important;}
+
+	.projects .sec-2 .projects > ul > li { width: 50%!important}
+
+}
+
+
+
+@media only screen and (max-width: 999px){
+	.navbar-header { float: none;}
+    .navbar-left,.navbar-right { float: none !important;  }
+    .navbar-toggle { display: block; float: right; background: transparent!important; border: 0px;  margin-top: 20px;     margin-right: 0px;}
+    .navbar-collapse { border-top: 0px solid transparent; box-shadow: inset 0 0px 0 rgba(255,255,255,0.1); background: #fff; position: relative; z-index: 99; }
+    .navbar-fixed-top { top: 0; border-width: 0 0 1px; }
+    .navbar-collapse.collapse { display: none!important; }
+    .navbar-nav {float: none!important;}
+    .navbar-nav>li { float: none!important; }
+    .navbar-nav>li>a { padding-top: 10px; padding-bottom: 10px; }
+    .collapse.in{  display:block !important; }
+    .nav-custom li a { font-size: 18px!important;} 
+      
+    .nav-ul { margin-top: 53px; }
+    .navbar-brand { height: inherit; padding: 0px; }
+    .navbar-logo { margin-top: 0px!important; margin: 0 auto;}
+    .nav-custom { position: relative!important; top: 0!important; padding: 0px!important; min-height: 80px!important;}
+    .menu { top: 0!important;}
+    .navbar-toggle .icon-bar{ width: 35px; height: 4px;}    
+    .nav-custom .navbar-nav > li:last-child { display: block!important;}
+    .nav > li { display: block!important; }
+    .navbar-collapse.collapse { text-align: left!important; }
+    .nav-custom .navbar-nav > li > a { padding:  10px 0px!important; color: #424242!important; }
+
+   	.links_top { display: none;}
+
+   	.nav-logo .desktop_logo	{ display: none;}
+	.nav-logo .alt_logo { display: block!important; }
+
+    .nav-logo {max-width: 130px; padding: 15px 0px; }
+
+
+
+
+
+
+
+
+
+
+   	.home .sec-1 .home-carousel .item aside{ height: 600px!important;}
+   	.home .sec-2 .hldr_ > ul > li {  width: 50%!important; margin-bottom: 20px; }
+   	.home .sec-2 .hldr_ > ul > li:last-child { margin-bottom: 0px!important;}
+   	.home .sec-2 .hldr_ > ul { justify-content: space-around!important}
+   	.home .sec-3 .hldr_ > div.details_hldr, .home .sec-5 .hldr_ > div.details_hldr { width: 100%!important; float: none!important;}
+
+   	.home .sec-3 .hldr_ > .img-side, .home .sec-5 .hldr_ > .img-side { width: 100%!important; float: none!important; position: relative!important; height: 400px!important;}
+   	.home .sec-3 .hldr_ > div.details_hldr > article, .home .sec-5 .hldr_ > div.details_hldr > article { padding: 20px!important;}
+   	.home .sec-4 .hldr_ .p-holdr, .home .sec-6 .hldr_ .p-holdr { max-width: 100%!important;}
+   	.home .sec-6 .hldr_ .job-list > li { width: 50%!important;}
+   	.home .sec-6 .hldr_ .job-list > li .item_hldr .rmore_ a, .map-hldr .hldr > ul > li:last-child .details .map_btn a {padding: 10px 20px!important;}
+
+   	.map-hldr .hldr > ul > li:last-child .details { padding: 50px 20px!important;}
+   	footer > ul > li:first-child, footer > ul > li:nth-child(2) { width: 50%!important;}
+   	footer > ul > li:last-child { width: 100%!important;}
+   	footer > ul > li {margin-bottom: 15px;}
+
+
+   	.about-page .sec-1, .join_team .sec-1, .machine .sec-1, .contact .sec-1, .clients .sec-1, .capabilities .sec-1, .projects .sec-1 { height: 400px!important;/* background-position: center!important;*/}
+   	.about-page .sec-1 .hero, .join_team .sec-1 .hero, .machine .sec-1 .hero, .contact .sec-1 .hero, .clients .sec-1 .hero, .capabilities .sec-1 .hero, .projects .sec-1 .hero {  padding: 0px 20px!important; max-width: 100%!important; top: 50%!important; left: 50%!important; transform: translate(-50%, -50%); text-align: center;;}
+   	.about-page .sec-2 .top-bar {margin-bottom: 0px!important;}
+   	.about-page .sec-2 {padding: 30px 20px!important;}
+   	.about-page .sec-2 >	 article .about-same > ul > li { width: 100%!important;}
+   	.about-page .sec-2 > article .about-same > ul > li:first-child aside {height: 350px!important; padding-right: 0px!important;}
+   	.about-page .sec-2 > article .about-same > ul > li:first-child article.text-hero {     top: 45%!important; right: auto!important ; text-align: center!important; left: 50%!important; transform: translate(-50%, -50%); padding: 0px 15px;}
+   	.about-page .sec-2 > article .about-same > ul > li:first-child article.text-hero h4::after { height: 4px!important; left: 50%; right: auto!important; transform: translate(-50%, 0);}
+   	.about-page .sec-2 > article .about-same > ul > li:first-child article.text-hero h4 { padding-bottom: 15px!important;}
+   	.about-page .sec-2 > article .about-same > ul > li:first-child aside::after { display: none;}
+   	.about-page .sec-2 > article .about-same > ul > li:nth-child(2) {padding: 20px!important; height: auto!important;}
+   	.about-page .sec-2 > article .about-comp > ul > li:nth-child(2) > ul > li > .hldr .title_img { margin-bottom: 15px!important; text-align: center;}
+   	.about-page .sec-2 > article .about-comp > ul > li:nth-child(2) > ul > li > .hldr .title_img span { position: relative!important; display: block; bottom: 0!important;}
+   	.about-page .sec-2 > article .about-comp > ul > li:nth-child(2) > ul > li > .hldr .title_img img {margin-right: 0px!important; margin-bottom: 10px!important;}
+   	.about-page .sec-2 > article .about-comp > ul > li:nth-child(2) > ul > li {    margin-bottom: 15px!important; border-bottom: 1px solid #d5d5d5; padding-bottom: 10px}
+
+   	.about-page .sec-2 > article .about-hist > ul > li:nth-child(2) .text_hldr { padding-top: 0px!important;}
+   	.about-page .sec-2 > article .about-hist > ul > li:nth-child(2) .text_hldr > h4 { margin-bottom: 20px!important}
+   	.about-page .sec-2 > article .about-hist > ul > li:nth-child(2) .text_hldr > p {margin-bottom: 15px!important;}
+   	.about-page .sec-2 > article .about-hist > ul > li:nth-child(2) .text_hldr .title_margin {margin-top: 40px!important;}
+
+   	.about-page .sec-2 > article .about-team > ul > li .hldr { padding: 0px!important;}
+
+   	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li.bg-gray { background: transparent!important;}
+   	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li { width: 100%!important;}
+   	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li:nth-child(odd) { background: #ededed!important}
+   	.contact .sec-2 .padding-form .form-hldr > ul > li { width: 100%!important;}
+   	.contact .sec-2 .padding-form .form-hldr > ul > li {margin-bottom: 15px!important;}
+
+   	.clients .sec-2 .hldr > ul > li { width: 100%!important;}
+   	.clients .sec-2 .hldr > ul > li:first-child aside{ height: 350px!important; }
+   	.clients .sec-2 .hldr > ul > li:nth-child(2){ padding-left: 0px!important;}
+   	.clients .sec-2 .hldr > ul > li:nth-child(2) > article { padding: 20px 15px!important;}
+
+   	.projects .sec-2 .top-bar { margin-bottom: 0px!important;}
+   	.projects .sec-2 .projects { padding: 15px!important;}
+   	.projects .sec-2 .projects > ul > li .holder_item article { width: 100%!important; padding-left: 0px!important;}
+	.projects .sec-2 .projects > ul > li .holder_item aside {margin: 0 auto 10px;}
+	.projects .sec-2 .projects > ul > li .holder_item article h4 br { display: none!important;  }
+	.projects .sec-2 .projects > ul > li .holder_item article h4 { text-align: center; }
+	.projects .sec-2 .projects > ul > li > .handler { padding: 0!important;}
+	.projects .sec-2 .projects > ul {margin: 0!important;}
+	.projects .sec-2 .projects > ul > li > .handler > .overlay { position: relative!important; width: 100%!important; text-align: center; background: transparent!important; overflow: visible!important;}
+	.projects .sec-2 .projects > ul > li .overlay > a {     position: relative!important; transform: translate(0, 0)!important; left: 0!important; top: 0!important;}
+
+	.projects .sec-2 .projects > ul > li > .handler:hover p::after { display: none!important;}
+
+
+
+
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 800px){
+	.home .sec-1 .home-carousel .item article.hero .rmore a{ padding: 10px 25px!important;}
+	.home .sec-1 .home-carousel .item article.hero .rmore { margin-top: 30px!important;}
+
+	.home .sec-2 .hldr_ > ul > li aside { height: 230px!important;}
+	.home .sec-3 .hldr_ > div.details_hldr > article > ul { margin-top: 40px!important;}
+
+	.home .sec-4 .hldr_ > ul.prject-sample > li > div > aside { max-width: 158px!important; height: 158px!important; margin: 0 auto!important; margin-bottom: 15px!important;}
+	.home .sec-4 .hldr_ > ul.prject-sample > li > div{display: block!important;}
+	.home .sec-4 .hldr_ > ul.prject-sample > li > div > article{ padding-left: 0px!important; width: 100%!important; }
+	.home .sec-4 .hldr_ > ul.prject-sample > li > div > article h4 br { display: none;}
+	.home .sec-4 .hldr_ > ul.prject-sample > li p {text-align: left!important;}
+	.home .sec-5 .hldr_ > div.details_hldr > article > .img-hldr {margin-top: 40px!important;}
+
+	.join_team .sec-2 .holder > .job_carousel-hldr {margin-top: 40px!important;}
+	.clients .sec-2 .hldr > ul > li:nth-child(2) > article > aside img { margin-top: 15px!important;}
+	.capabilities .sec-2 .hldr_ .item_hldr > li { width: 100%!important; margin-bottom: 15px!important; padding: 0px!important;}
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+/********************MOBILE****************************/
+
+@media only screen and (max-width: 600px){
+	.home .sec-1 .home-carousel .item article.hero h2 { font-size: 30px!important;}
+	.home .sec-2 .hldr_ > ul > li { width: 100%!important;}
+	.home .sec-2 .hldr_ > ul > li aside{ margin-bottom: 15px!important; height: 200px!important;}
+	.sec-title { font-size: 25px!important;     line-height: 33px!important;}
+	.home .sec-3 .hldr_ > div.details_hldr > article > h3 {margin-bottom: 10px!important;}
+	.home .sec-3 .hldr_ > div.details_hldr > article > ul > li > div > aside { position: relative!important; margin: 0 auto!important; margin-bottom: 20px!important;  height: 125px!important; max-width: 125px!important;}
+	.home .sec-3 .hldr_ > .img-side {height: 350px!important;}
+	.home .sec-3 .hldr_ > div.details_hldr > article > ul > li > div > article { padding-left: 0px!important; padding-top: 0px!important; min-height: auto!important;}
+	.home .sec-3 .hldr_ > div.details_hldr > article > ul > li > div > article h4 { margin-bottom: 10px!important; text-align: center;}
+	.home .sec-4 .hldr_ > ul.prject-sample > li { width: 100%!important; padding: 0px!important;}
+	.home .sec-4 .hldr_ > ul.prject-sample { margin: 0px!important; margin-top: 30px!important;}
+	.home .sec-4 .hldr_ > ul.prject-sample > li > div {margin-bottom: 5px!important;}
+
+	.home .sec-4 .hldr_ > ul.prject-sample > li > div > aside { max-width: 125px!important; height: 125px!important;}
+	.home .sec-4 .hldr_ > h3::after, .home .sec-6 .hldr_ > h3::after {    background-size: 230px!important; background-position: center center!important; width: 230px!important;}
+	.home .sec-4 .hldr_ > ul.prject-sample > li > div > article h4 { text-align: center;;}
+	.home .sec-6 .hldr_ .job-list > li { width: 100%!important; padding: 0px!important;}
+	.home .sec-6 .hldr_ .job-list > li .item_hldr .rmore_ { margin-top: 25px!important;}
+	.home .sec-6 .hldr_ .job-list { margin: 30px 0px 0px!important;}
+	.home .sec-6 .hldr_ .job-list > li .item_hldr {padding: 15px!important;}
+
+	.map-hldr .hldr > ul > li:first-child, .map-hldr .hldr > ul > li:last-child { width: 100%!important;}
+	.map-hldr .hldr > ul > li:last-child .details { padding: 15px!important; position: relative!important;}
+	.map-hldr .hldr > ul > li .iframe-hldr iframe {height: 300px!important;}
+	footer > ul > li:first-child, footer > ul > li:nth-child(2) { width: 100%!important; border-bottom: 2px solid #fff;}
+	footer > ul > li:first-child > ul > li{ width: 100%!important; padding: 0px!important;}
+	footer > ul > li { padding: 0px!important;}
+	footer > ul > li:first-child > ul {margin: 0px!important;}
+	footer > ul > li:last-child  { padding-left: 0px!important;}
+	footer > ul > li:last-child > .email-hldr input[type="email"] { width: 100%!important; margin-bottom: 10px;}
+	footer > ul > li:last-child > .email-hldr input[type="submit"] {margin-left: 0px!important;}
+	footer > ul > li:last-child > .links_social {margin: 0px!important; margin-top: 15px!important;}
+
+	.about-page .sec-1 .hero > h3, .join_team .sec-1 .hero > h3, .machine .sec-1 .hero > h3, .contact .sec-1 .hero > h3, .clients .sec-1 .hero > h3, .capabilities .sec-1 .hero > h3, .projects .sec-1 .hero > h3 { font-size: 30px!important;} 
+
+	.about-page .sec-1 .hero > p, .join_team .sec-1 .hero > p, .machine .sec-1 .hero > p, .contact .sec-1 .hero > p, .clients .sec-1 .hero > p, .capabilities .sec-1 .hero > p, .projects .sec-1 .hero > p { font-size: 18px!important;}
+
+	.about-page .sec-2 > article .about-same > ul > li:first-child article.text-hero h4 { font-size: 25px!important;}
+	.about-page .sec-2 > article .about-same > ul > li:first-child aside{ height: 250px!important}
+
+	.about-page .sec-2 > article .about-team > ul > li .hldr > ul > li { width: 100%!important; margin-bottom: 30px!important;}
+	.about-page .sec-2 > article .about-team > ul > li .hldr > ul > li > aside {margin-bottom: 10px!important;     max-width: 150px!important; height: 167px!important;}
+	.about-page .sec-2 > article .about-team > ul > li .hldr > ul > li > article { max-width: 100%!important; text-align: center;}
+	.about-page .sec-2 > article .about-team > ul > li .hldr > ul > li > article h6 {margin-bottom: 0px!important; font-size: 18px!important}
+	.about-page .sec-2 > article .about-team > ul > li .hldr > ul > li > article p  { font-size: 16px!important; }
+
+	.join_team .sec-2 .holder > .job_carousel-hldr .owl-nav .owl-prev { left: 0!important;}
+	.join_team .sec-2 .holder > .job_carousel-hldr .owl-nav .owl-next { right: 0!important;}
+	.join_team .sec-2 .holder > .job_carousel-hldr .owl-dots { display: none!important;}
+	.join_team .sec-2 .holder > .job_carousel-hldr .owl-nav { transform: translate(0, -50%); top: 45%!important; margin: 0!important;}
+
+
+	.machine .sec-2 .holder .machine-slider-hldr {margin-top: 30px!important;}
+
+	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li .list-slide > aside { float: none!important;}
+	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li { padding: 20px!important;}
+	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li .list-slide > aside > img {margin: 0 auto; margin-bottom: 15px;}
+	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li .list-slide > article > h4 {margin-bottom: 5px!important;}
+	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li .list-slide > aside { margin-right: 0px!important;}
+	.machine .sec-2 .holder > p { font-size: 16px!important;}
+
+	.contact .sec-2 .padding-form .form-hldr {padding: 0px!important;	 border: 0px!important;}
+	.contact .sec-2 .padding-form .form-hldr .cntct_btn input[type="submit"] { font-size: 18px!important; padding: 10px 30px!important;} 
+	.contact .sec-2 .padding-form .form-hldr .cntct_btn {margin-top: 0px!important; text-align: right!important;}
+	.clients .sec-2 .hldr > ul > li:first-child aside { height: 250px!important;}
+
+	.capabilities .sec-2 .hldr_ .item_hldr > li > div aside {width: 125px!important; height: 125px!important; margin: 0 auto 15px!important;}
+	.capabilities .sec-2 .hldr_ .item_hldr > li {margin-bottom: 25px!important;}
+
+
+	.projects .sec-2 .projects > ul > li { width: 100%!important; padding: 0px!important;}
+	.projects .sec-2 .projects > ul > li .holder_item aside { max-width: 125px!important; height: 125px!important;}
+	.projects .sec-2 .projects > ul > li > .handler > .overlay {     margin-bottom: 15px;}
+
+
+
+
+
+
+
+
+
+
+}
+
