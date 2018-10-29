@@ -1077,10 +1077,14 @@ $red : #f80203;
 
 .pagination-hldr { margin: 15px 0px;
     .pagination {
-        > li {
-            a { border: 1px solid transparent; border-radius: 0px; float: none; color: #6a6a6a;}
+        li { padding: 6px 12px; font-family: $fontmain; font-size: 14px; display: inline-block; background: #d5d5d5;
+            /* a { border: 1px solid transparent; border-radius: 0px; float: none; color: #6a6a6a;} */
 
-            a:hover { border: 1px solid $red; }
+            /* a:hover { border: 1px solid $red; } */
+        }
+
+        span.current {
+            li { background: #f80203; color: $white;}
         }
     }
 }

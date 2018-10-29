@@ -1351,13 +1351,17 @@ input, select, textarea, button {
 
 .pagination-hldr {
   margin: 15px 0px; }
-  .pagination-hldr .pagination > li a {
-    border: 1px solid transparent;
-    border-radius: 0px;
-    float: none;
-    color: #6a6a6a; }
-  .pagination-hldr .pagination > li a:hover {
-    border: 1px solid #f80203; }
+  .pagination-hldr .pagination li {
+    padding: 6px 12px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    display: inline-block;
+    background: #d5d5d5;
+    /* a { border: 1px solid transparent; border-radius: 0px; float: none; color: #6a6a6a;} */
+    /* a:hover { border: 1px solid $red; } */ }
+  .pagination-hldr .pagination span.current li {
+    background: #f80203;
+    color: #fff; }
 
 footer {
   padding: 40px 5%;
