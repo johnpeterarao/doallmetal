@@ -539,7 +539,7 @@ input, select, textarea, button {
     .contact .sec-2 .padding-form .form-hldr {
       padding: 60px;
       border: 2px solid #e1e1e1; }
-      .contact .sec-2 .padding-form .form-hldr > ul {
+      .contact .sec-2 .padding-form .form-hldr ul {
         display: -webkit-box;
         display: -moz-box;
         display: -ms-flexbox;
@@ -549,15 +549,15 @@ input, select, textarea, button {
         justify-content: flex-start;
         flex-wrap: wrap;
         margin: 0px -15px; }
-        .contact .sec-2 .padding-form .form-hldr > ul > li {
+        .contact .sec-2 .padding-form .form-hldr ul li {
           width: 33.3%;
           padding: 0px 15px;
           margin-bottom: 20px; }
-          .contact .sec-2 .padding-form .form-hldr > ul > li > h5 {
+          .contact .sec-2 .padding-form .form-hldr ul li h5 {
             font-family: Arial, sans-serif;
             font-size: 25px;
             margin-bottom: 10px; }
-          .contact .sec-2 .padding-form .form-hldr > ul > li > input[type="text"], .contact .sec-2 .padding-form .form-hldr > ul > li input[type="email"] {
+          .contact .sec-2 .padding-form .form-hldr ul li input[type="text"], .contact .sec-2 .padding-form .form-hldr ul li input[type="email"] {
             height: 40px;
             font-size: 18px;
             font-family: Arial, sans-serif;
@@ -566,12 +566,12 @@ input, select, textarea, button {
             background: #ebebeb;
             width: 100%;
             border: 2px solid #e1e1e1; }
-          .contact .sec-2 .padding-form .form-hldr > ul > li > input[type="text"]:focus, .contact .sec-2 .padding-form .form-hldr > ul > li input[type="email"]:focus {
+          .contact .sec-2 .padding-form .form-hldr ul li input[type="text"]:focus, .contact .sec-2 .padding-form .form-hldr ul li input[type="email"]:focus {
             border: 2px solid #f80203; }
-        .contact .sec-2 .padding-form .form-hldr > ul > li:last-child {
+        .contact .sec-2 .padding-form .form-hldr ul li:last-child {
           width: 100%;
           margin-bottom: 0px; }
-          .contact .sec-2 .padding-form .form-hldr > ul > li:last-child textarea {
+          .contact .sec-2 .padding-form .form-hldr ul li:last-child textarea {
             font-size: 18px;
             font-family: Arial, sans-serif;
             padding-left: 15px;
@@ -580,7 +580,7 @@ input, select, textarea, button {
             width: 100%;
             border: 2px solid #e1e1e1;
             resize: none; }
-          .contact .sec-2 .padding-form .form-hldr > ul > li:last-child textarea:focus {
+          .contact .sec-2 .padding-form .form-hldr ul li:last-child textarea:focus {
             border: 2px solid #f80203; }
       .contact .sec-2 .padding-form .form-hldr .cntct_btn {
         text-align: center;

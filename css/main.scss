@@ -338,18 +338,18 @@ $red : #f80203;
         .padding-form { padding: 0px 90px;
             .form-hldr { padding: 60px; border: 2px solid #e1e1e1;
 
-                > ul { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-flow: row wrap; justify-content: flex-start; flex-wrap: wrap; margin: 0px -15px;
+                 ul { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-flow: row wrap; justify-content: flex-start; flex-wrap: wrap; margin: 0px -15px;
 
-                    > li { width: 33.3%; padding: 0px 15px; margin-bottom: 20px;
-                        > h5 { font-family: $fontmain; font-size: 25px; margin-bottom: 10px;}
+                     li { width: 33.3%; padding: 0px 15px; margin-bottom: 20px;
+                         h5 { font-family: $fontmain; font-size: 25px; margin-bottom: 10px;}
 
-                        > input[type="text"], input[type="email"] {  height: 40px; font-size: 18px; font-family: $fontmain; padding-left: 15px; border-radius: 15px; background: #ebebeb; width: 100%; border: 2px solid #e1e1e1;}
+                         input[type="text"], input[type="email"] {  height: 40px; font-size: 18px; font-family: $fontmain; padding-left: 15px; border-radius: 15px; background: #ebebeb; width: 100%; border: 2px solid #e1e1e1;}
 
-                        > input[type="text"]:focus, input[type="email"]:focus { border: 2px solid $red;}
+                         input[type="text"]:focus, input[type="email"]:focus { border: 2px solid $red;}
                     }
 
 
-                    > li:last-child { width: 100%; margin-bottom: 0px;
+                     li:last-child { width: 100%; margin-bottom: 0px;
                         textarea { font-size: 18px; font-family: $fontmain; padding-left: 15px; border-radius: 15px; background: #ebebeb; width: 100%; border: 2px solid #e1e1e1; resize: none;}
 
                         textarea:focus { border: 2px solid $red;}
