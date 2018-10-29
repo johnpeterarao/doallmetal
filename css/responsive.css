@@ -57,7 +57,7 @@
 
 	.contact .sec-2 .padding-form { padding: 0px!important;}
 	.contact .sec-2 .padding-form .form-hldr{ padding: 30px 20px!important;}
-	.contact .sec-2 .padding-form .form-hldr > ul > li > h5 { font-size: 20px!important;}
+	.contact .sec-2 .padding-form .form-hldr  ul  li  h5 { font-size: 20px!important;}
 	.home .sec-2 .hldr_ > ul > li article > h4 { font-size: 20px!important; margin-bottom: 5px!important;}
 
 	.home .sec-3 .hldr_ > div.details_hldr > article, .home .sec-5 .hldr_ > div.details_hldr > article { padding: 30px 20px!important;}
@@ -171,8 +171,8 @@
    	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li.bg-gray { background: transparent!important;}
    	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li { width: 100%!important;}
    	.machine .sec-2 .holder .machine-slider-hldr > .machine_carousel .item > ul > li:nth-child(odd) { background: #ededed!important}
-   	.contact .sec-2 .padding-form .form-hldr > ul > li { width: 100%!important;}
-   	.contact .sec-2 .padding-form .form-hldr > ul > li {margin-bottom: 15px!important;}
+   	.contact .sec-2 .padding-form .form-hldr  ul  li { width: 100%!important;}
+   	.contact .sec-2 .padding-form .form-hldr  ul  li {margin-bottom: 15px!important;}
 
    	.clients .sec-2 .hldr > ul > li { width: 100%!important;}
    	.clients .sec-2 .hldr > ul > li:first-child aside{ height: 350px!important; }
